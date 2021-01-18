@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "285155971030",
+    "firebase_url": "https://penjualan-7bc3e-default-rtdb.firebaseio.com/",
+    "project_id": "penjualan-7bc3e",
+    "storage_bucket": "penjualan-7bc3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285155971030:android:4da37c8e0017ac4b5fde77",
+        "android_client_info": {
+          "package_name": "com.uas.penjualan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285155971030-ie4o7f9r3pl28ard4k6r7legks8ruf4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiHBxyJKBb2N8Wg3hZPOIeMqC69vfHqNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285155971030-ie4o7f9r3pl28ard4k6r7legks8ruf4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

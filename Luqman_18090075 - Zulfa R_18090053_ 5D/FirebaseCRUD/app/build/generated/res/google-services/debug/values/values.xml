@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">285155971030-ie4o7f9r3pl28ard4k6r7legks8ruf4d.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://penjualan-7bc3e-default-rtdb.firebaseio.com/</string>
+    <string name="gcm_defaultSenderId" translatable="false">285155971030</string>
+    <string name="google_api_key" translatable="false">AIzaSyDiHBxyJKBb2N8Wg3hZPOIeMqC69vfHqNc</string>
+    <string name="google_app_id" translatable="false">1:285155971030:android:4da37c8e0017ac4b5fde77</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDiHBxyJKBb2N8Wg3hZPOIeMqC69vfHqNc</string>
+    <string name="google_storage_bucket" translatable="false">penjualan-7bc3e.appspot.com</string>
+    <string name="project_id" translatable="false">penjualan-7bc3e</string>
+</resources>
